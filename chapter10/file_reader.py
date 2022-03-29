@@ -1,4 +1,4 @@
-with open('../chapter9/car.py') as file_object:
+with open('../chapter09/car.py') as file_object:
     contents = file_object.read()
     print(contents.rstrip())
 
